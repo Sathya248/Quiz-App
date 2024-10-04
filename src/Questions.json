@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "question": "What is the captial of France?",
+        "options": [
+            "Berlin",
+            "Madrid",
+            "Paris",
+            "Rome"
+        ],
+        "correctOption": "Paris"
+    },
+    {
+        "id": 2,
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correctOption": "Mars"
+    },
+    {
+        "id": 3,
+        "question": "Who wrote 'Remeo and Jupiter'?",
+        "options": [
+            "Charles Dickens",
+            "Jane Austen",
+            "William Shakespeare",
+            "Leo Tolstoy"
+        ],
+        "correctOption": "William Shakespeare"
+    },
+    {
+        "id": 4,
+        "question": "Correct Answer 2+3?",
+        "options": [
+            "5",
+            "6",
+            "3",
+            "2"
+        ],
+        "correctOption": "5"
+    }
+]
